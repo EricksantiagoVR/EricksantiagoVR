@@ -22,23 +22,15 @@
   Connect With Me
 </h2>
 
-<p align="center">
-  <a href="https://instagram.com/san_vr16" title="@san_vr16">
-    <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
-  </a>
+<div align="center">
 
-  &nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/san_vr16" title="@san_vr16"><img src="https://skillicons.dev/icons?i=instagram" width="55"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://facebook.com/" title="Santy Vasquez"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="55"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:ericksantiago2806@gmail.com" title="ericksantiago2806@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="55"/></a>
 
-  <a href="https://facebook.com/" title="Santy Vasquez">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="55"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:ericksantiago2806@gmail.com" title="ericksantiago2806@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-  </a>
-</p>
+</div>
 
 <div align="center">
 
@@ -56,9 +48,8 @@
 - 🌱 Currently learning **HTML, CSS, JavaScript, Java and Git**
 - 🎓 Software Analysis and Development Student (ADSO)
 - 🚀 Interested in Frontend and Backend Development
-- ☕ Developing projects in **Apache NetBeans**
 - 🎮 Anime, gaming and coding enthusiast
-- ⚡ Fun fact: I enjoy customizing profiles and creating creative projects
+- ⚡ I enjoy customizing profiles and creating creative projects
 
 <br>
 
@@ -67,10 +58,6 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
 
 </div>
 
@@ -94,15 +81,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 <br>
 
 <div align="center">
