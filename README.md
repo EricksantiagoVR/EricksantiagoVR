@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  Software Developer 💻 | Passionate about Technology 🚀
+  Analisis y desarrollo de software en proceso 💻 | Passionate about Technology 🚀
 </h3>
 
 <div align="center">
