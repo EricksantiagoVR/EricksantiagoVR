@@ -22,25 +22,19 @@
   Connect With Me
 </h2>
 
-<div align="center">
-
-<a href="https://instagram.com/san_vr16" title="@san_vr16">
-  <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://facebook.com/" title="Santy Vasquez">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:ericksantiago2806@gmail.com" title="ericksantiago2806@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://instagram.com/san_vr16" title="@san_vr16">
+    <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
+  </a>
+  
+  <a href="https://facebook.com/" title="Santy Vasquez">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="55"/>
+  </a>
+  
+  <a href="mailto:ericksantiago2806@gmail.com" title="ericksantiago2806@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+  </a>
+</p>
 
 <br>
 
