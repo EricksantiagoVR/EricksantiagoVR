@@ -64,11 +64,15 @@
 
 ## 📊 GitHub Stats
 
+<br>
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricksantiagoVR&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=EricksantiagoVR&show_icons=true&theme=tokyonight&border_radius=10" height="180"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricksantiagoVR&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricksantiagoVR&layout=compact&theme=tokyonight&border_radius=10" height="180"/>
 
 </div>
 
@@ -76,11 +80,11 @@
 
 <div align="center">
 
-### 🔥 Profile Views
-
-![](https://komarev.com/ghpvc/?username=EricksantiagoVR&color=blueviolet&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=EricksantiagoVR&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
