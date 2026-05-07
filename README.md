@@ -4,7 +4,7 @@
 </div>
 <h1 align="center">Hi , I'm Santy Vasquez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <div><img align="right" alt="GIF" src="https://giphy.com/gifs/8qXJTU5oEhQZO" width="300" height="auto" /></div>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/8qXJTU5oEhQZO/giphy.gif" width="300"/>
 </p>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
