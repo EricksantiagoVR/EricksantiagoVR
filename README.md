@@ -45,9 +45,8 @@
 - 💻 Passionate about web development and technology
 - 🌱 Currently learning **HTML, CSS, JavaScript and Git**
 - 🎓 Software Analysis and Development Student (ADSO)
-- 🚀 Interested in Frontend and Backend Development
 - 🎮 Anime, gaming and coding enthusiast
-- ⚡ Fun fact: I enjoy customizing profiles and creating creative projects
+
 
 <br>
 
