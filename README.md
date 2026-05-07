@@ -20,7 +20,8 @@
 <br>
 
 <h2 align="center">
-  ## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40"> About Me
+<img src="https://media.giphy.com/media/LnKonfpQ7ExTG/giphy.gif" width="35">
+  Connect With Me
 </h2>
 
 <div align="center">
