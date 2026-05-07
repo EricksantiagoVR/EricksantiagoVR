@@ -71,6 +71,7 @@
 
 <br>
 
+
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=EricksantiagoVR&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
@@ -80,6 +81,11 @@
 <br>
 
 <div align="center">
+## 🐍 Una serpiente comiéndose mi gráfico de contribuciones
+
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Juego de la serpiente"/>
+</p>
 
 ### ⭐ Thanks for visiting my profile
 
