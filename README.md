@@ -44,7 +44,6 @@
 - 💻 Currently learning **HTML, CSS, JavaScript, Java and Git**
 - 🚀 My goal is to become a **Software Engineer**
 - 🌱 Improving my frontend and backend development skills every day
-- 🎮 Anime, gaming and coding enthusiast
 - ⚡ I enjoy creating projects and customizing digital experiences
 
 <br>
