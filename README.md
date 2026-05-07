@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hi, I'm Santy Vasquez 
+  Hi, I'm Santy Vasquez
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
@@ -11,19 +11,33 @@
   Software analysis and development in progress 💻 | Passionate about Technology 🚀
 </h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/8qXJTU5oEhQZO/giphy.gif" width="320"/>
+</div>
+
+<br>
+
 ## 🌐 Social Networks
 
 <div align="center">
+
+<a href="https://instagram.com/san_vr16" title="@san_vr16">
+  <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://facebook.com/" title="Santy Vasquez">
   <img src="https://skillicons.dev/icons?i=facebook" width="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+</div>
 
-<a href="mailto:ericksantiago2806@gmail.com" title="ericksantiago2806@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-</a>
+<br>
+
+<div align="center">
+
+📧 Contact: ericksantiago2806@gmail.com
 
 </div>
 
@@ -46,7 +60,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
 
 </div>
 
@@ -65,7 +79,7 @@
 <br>
 
 <div align="center">
-  
+
 ### 🔥 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=EricksantiagoVR&color=blueviolet&style=for-the-badge)
@@ -73,7 +87,7 @@
 </div>
 
 <div align="center">
-  
+
 ### ⭐ Thanks for visiting my profile
 
 </div>
