@@ -32,24 +32,18 @@
 
 </div>
 
-<div align="center">
-
-📧 Contact: ericksantiago2806@gmail.com
-
-</div>
-
 <br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="35"> About Me
 
-- 💻 Passionate about web development and technology
-- 🌱 Currently learning **HTML, CSS, JavaScript, Java and Git**
-- 🎓 Software Analysis and Development Student (ADSO)
-- 🚀 Interested in Frontend and Backend Development
+- 🎓 Student of Software Analysis and Development (ADSO)
+- 💻 Currently learning **HTML, CSS, JavaScript, Java and Git**
+- 🚀 My goal is to become a **Software Engineer**
+- 🌱 Improving my frontend and backend development skills every day
 - 🎮 Anime, gaming and coding enthusiast
-- ⚡ I enjoy customizing profiles and creating creative projects
+- ⚡ I enjoy creating projects and customizing digital experiences
 
 <br>
 
@@ -68,16 +62,6 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EricksantiagoVR&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EricksantiagoVR&layout=compact&theme=tokyonight" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=EricksantiagoVR&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
