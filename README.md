@@ -1,4 +1,4 @@
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/331acd93-77ea-49a9-bfff-1858f93323d9" />
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
