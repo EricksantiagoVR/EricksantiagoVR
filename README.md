@@ -19,38 +19,29 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnKonfpQ7ExTG/giphy.gif" width="35">
-  <h2 align="center">
-  <img src="https://media.giphy.com/media/LnKonfpQ7ExTG/giphy.gif" width="35">
   Connect With Me
 </h2>
 
 <div align="center">
 
 <a href="https://instagram.com/san_vr16" title="@san_vr16">
-<img src="https://skillicons.dev/icons?i=instagram" width="55"/>
+  <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://facebook.com/" title="Santy Vasquez">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="55"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:ericksantiago2806@gmail.com" title="ericksantiago2806@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
 </div>
 
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=EricksantiagoVR&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricksantiagoVR&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
-
-</div>
 <br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -80,7 +71,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EricksantiagoVR&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricksantiagoVR&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EricksantiagoVR&layout=compact&theme=tokyonight" height="180"/>
 
 </div>
 
