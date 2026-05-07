@@ -42,7 +42,9 @@
 
 ## <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="35"> About Me
 
-- 💻 Passionate about web development and technology
+- I am a dedicated student currently enrolled in the ASDO program (Software Analysis and Development), where I’m honing my skills in logic, coding, and system design.
+- 🎯 My Goal: I aspire to become a professional Software Engineer. I am focused on mastering modern technologies and best practices to build impactful software.
+- ⚡ What I do: I spend my time learning new languages, working on academic projects, and solving problems through code.
 - 🌱 Currently learning **HTML, CSS, JavaScript and Git**
 - 🎓 Software Analysis and Development Student (ADSO)
 - 🎮 Anime, gaming and coding enthusiast
