@@ -17,7 +17,7 @@
 
 <br>
 
-## 🌐 Social Networks
+🌐 Social Networks
 
 <div align="center">
 
@@ -28,19 +28,16 @@
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://facebook.com/" title="Santy Vasquez">
-  <img src="https://skillicons.dev/icons?i=facebook" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:ericksantiago2806@gmail.com" title="ericksantiago2806@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
 </div>
-
-<br>
-
-<div align="center">
-
-📧 Contact: ericksantiago2806@gmail.com
-
-</div>
-
 <br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
