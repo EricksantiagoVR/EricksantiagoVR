@@ -17,21 +17,20 @@
 
 <br>
 
-## 🚀 Connect With Me
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3U5N2Z4aGx2NnJrOXN0b2x4d3k1aW5kYjV4ZmF1NnY5b2R3dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRnoppYtfEbemBO/giphy.gif" width="35">
+  Connect With Me
+</h2>
 
-<div align="center">
+<div align="center" style="display:flex; justify-content:center; align-items:center; gap:25px;">
 
 <a href="https://instagram.com/san_vr16" title="@san_vr16">
   <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://facebook.com/" title="Santy Vasquez">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="55"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:ericksantiago2806@gmail.com" title="ericksantiago2806@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
