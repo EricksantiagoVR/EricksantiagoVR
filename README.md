@@ -1,27 +1,85 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 <div align="center">
-   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true"/>
 </div>
 
 <h1 align="center">
-  Hi, I'm Santy Vasquez
+  Hi, I'm Santy Vasquez 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/8qXJTU5oEhQZO/giphy.gif" width="300"/>
-</p>
+<h3 align="center">
+  Software Developer 💻 | Passionate about Technology 🚀
+</h3>
 
-<picture>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
-</picture>
+<div align="center">
+  <img src="https://media.giphy.com/media/8qXJTU5oEhQZO/giphy.gif" width="350"/>
+</div>
 
-## About me
+<br>
 
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡 Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+<div align="center">
+
+<a href="https://instagram.com/san_vr16" title="@san_vr16">
+  <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://facebook.com/" title="Santy Vasquez">
+  <img src="https://skillicons.dev/icons?i=facebook" width="55"/>
+</a>
+
+</div>
+
+<br>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+
+- 💻 Passionate about web development and technology
+- 🌱 Currently learning **HTML, CSS, JavaScript and Git**
+- 🎓 Software Analysis and Development Student (ADSO)
+- 🚀 Interested in Frontend and Backend Development
+- 🎮 Anime, gaming and coding enthusiast
+- ⚡ Fun fact: I enjoy customizing profiles and creating creative projects
+
+<br>
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricksantiagoVR&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricksantiagoVR&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+  
+### 🔥 Profile Views
+
+![](https://komarev.com/ghpvc/?username=EricksantiagoVR&color=blueviolet&style=for-the-badge)
+
+</div>
+
+<div align="center">
+  
+### ⭐ Thanks for visiting my profile
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
