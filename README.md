@@ -2,8 +2,10 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true"/>
 </div>
 
-<h1 align="center" style="font-family: 'Brush Script MT', cursive; font-size: 42px;">
-  Hey there, I'm Santy Vasquez ✨
+<h1 align="center">
+  <span style="font-family: 'Segoe Script', cursive; font-size: 46px;">
+    𝓢𝓪𝓷𝓽𝔂 𝓥𝓪𝓼𝓺𝓾𝓮𝔃 ✨
+  </span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
