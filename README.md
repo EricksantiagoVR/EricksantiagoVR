@@ -8,25 +8,21 @@
 </h1>
 
 <h3 align="center">
-  Analisis y desarrollo de software en proceso 💻 | Passionate about Technology 🚀
+  Software analysis and development in progress 💻 | Passionate about Technology 🚀
 </h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/8qXJTU5oEhQZO/giphy.gif" width="350"/>
-</div>
-
-<br>
+## 🌐 Social Networks
 
 <div align="center">
 
-<a href="https://instagram.com/san_vr16" title="@san_vr16">
-  <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
+<a href="https://facebook.com/" title="Santy Vasquez">
+  <img src="https://skillicons.dev/icons?i=facebook" width="55"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://facebook.com/" title="Santy Vasquez">
-  <img src="https://skillicons.dev/icons?i=facebook" width="55"/>
+<a href="mailto:ericksantiago2806@gmail.com" title="ericksantiago2806@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
 </div>
