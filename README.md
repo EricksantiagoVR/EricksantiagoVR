@@ -27,7 +27,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
   </a>
   
-  <a href="https://facebook.com/" title="Santy Vasquez">
+  <a href="https://www.facebook.com/santy.vasquez.27988/" title="Santy Vasquez">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="55"/>
   </a>
   
