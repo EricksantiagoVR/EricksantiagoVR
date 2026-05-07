@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode"/>
 
 <br><br>
 
@@ -94,6 +94,15 @@
 
 </div>
 
+<br>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 <br>
 
 <div align="center">
