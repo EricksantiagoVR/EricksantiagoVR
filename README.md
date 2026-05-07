@@ -2,8 +2,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true"/>
 </div>
 
-<h1 align="center">
-  Hi, I'm Santy Vasquez
+<h1 align="center" style="font-family: 'Brush Script MT', cursive; font-size: 42px;">
+  Hey there, I'm Santy Vasquez ✨
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
@@ -26,15 +26,25 @@
   <a href="https://instagram.com/san_vr16" title="@san_vr16">
     <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
   </a>
-  
-  <a href="https://www.facebook.com/santy.vasquez.27988/" title="Santy Vasquez">
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://facebook.com/" title="Santy Vasquez">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="55"/>
   </a>
-  
+
+  &nbsp;&nbsp;&nbsp;
+
   <a href="mailto:ericksantiago2806@gmail.com" title="ericksantiago2806@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
   </a>
 </p>
+
+<div align="center">
+
+📧 Contact: ericksantiago2806@gmail.com
+
+</div>
 
 <br>
 
@@ -42,19 +52,26 @@
 
 ## <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="35"> About Me
 
-- 🎓 I am a dedicated student currently enrolled in the ASDO program (Software Analysis and Development), where I’m honing my skills in logic, coding, and system design.
-- 🎯 My Goal: I aspire to become a professional Software Engineer. I am focused on mastering modern technologies and best practices to build impactful software.
-- ⚡ What I do: I spend my time learning new languages, working on academic projects, and solving problems through code.
-- 🌱 Currently learning **HTML, CSS, JavaScript and Git**
+- 💻 Passionate about web development and technology
+- 🌱 Currently learning **HTML, CSS, JavaScript, Java and Git**
+- 🎓 Software Analysis and Development Student (ADSO)
+- 🚀 Interested in Frontend and Backend Development
+- ☕ Developing projects in **Apache NetBeans**
 - 🎮 Anime, gaming and coding enthusiast
-
+- ⚡ Fun fact: I enjoy customizing profiles and creating creative projects
 
 <br>
 
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
+
 </div>
 
 <br>
@@ -71,7 +88,6 @@
 
 <br>
 
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=EricksantiagoVR&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
@@ -81,11 +97,6 @@
 <br>
 
 <div align="center">
-## 🐍 Una serpiente comiéndose mi gráfico de contribuciones
-
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Juego de la serpiente"/>
-</p>
 
 ### ⭐ Thanks for visiting my profile
 
