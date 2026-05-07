@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  Software analysis and development in progress 💻 | Passionate about Technology 🚀
+  Software Analysis and Development in Progress 💻 | Passionate about Technology 🚀
 </h3>
 
 <div align="center">
@@ -18,30 +18,43 @@
 <br>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3U5N2Z4aGx2NnJrOXN0b2x4d3k1aW5kYjV4ZmF1NnY5b2R3dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRnoppYtfEbemBO/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/LnKonfpQ7ExTG/giphy.gif" width="35">
   Connect With Me
 </h2>
 
-<div align="center" style="display:flex; justify-content:center; align-items:center; gap:25px;">
+<div align="center">
 
 <a href="https://instagram.com/san_vr16" title="@san_vr16">
   <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://facebook.com/" title="Santy Vasquez">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="55"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:ericksantiago2806@gmail.com" title="ericksantiago2806@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
 </div>
+
+<br>
+
+<div align="center">
+
+📧 Contact: ericksantiago2806@gmail.com
+
+</div>
+
 <br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+## <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="35"> About Me
 
 - 💻 Passionate about web development and technology
 - 🌱 Currently learning **HTML, CSS, JavaScript and Git**
@@ -59,10 +72,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
 
 </div>
-
-<br>
-
-## 📊 GitHub Stats
 
 <br>
 
