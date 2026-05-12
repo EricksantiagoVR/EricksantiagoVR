@@ -19,7 +19,18 @@
 
 <br>
 
-<h2 align="center">
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+
+- 💻 Currently learning **HTML, CSS, JavaScript, Java and Git**
+- 🚀 My goal is to become a **Software Engineer**
+- 🌱 Improving my frontend and backend development skills every day
+- ⚡ I enjoy creating projects and customizing digital experiences
+  
+  <h2 align="center">
 <img src="https://media.giphy.com/media/LnKonfpQ7ExTG/giphy.gif" width="35">
   Connect With Me
 </h2>
@@ -34,18 +45,6 @@
 
 </div>
 
-<br>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-
-- 💻 Currently learning **HTML, CSS, JavaScript, Java and Git**
-- 🚀 My goal is to become a **Software Engineer**
-- 🌱 Improving my frontend and backend development skills every day
-- ⚡ I enjoy creating projects and customizing digital experiences
-  
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br>
 
