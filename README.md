@@ -30,7 +30,7 @@
 - 🌱 Improving my frontend and backend development skills every day
 - ⚡ I enjoy creating projects and customizing digital experiences
   
-## <img src="https://githubusercontent.com" width="40" /> My networks
+## 🌐 My networks
 
 <div align="center">
 
