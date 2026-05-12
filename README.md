@@ -28,12 +28,12 @@
 
 <a href="https://instagram.com/san_vr16" title="@san_vr16"><img src="https://skillicons.dev/icons?i=instagram" width="55"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://facebook.com/" title="Santy Vasquez"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="55"/></a>
+<!-- Logo de Facebook Actualizado -->
+<a href="https://facebook.com/" title="Santy Vasquez"><img src="https://skillicons.dev" width="55"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:ericksantiago2806@gmail.com" title="ericksantiago2806@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="55"/></a>
 
 </div>
-
 <br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
