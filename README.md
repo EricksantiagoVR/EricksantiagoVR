@@ -45,7 +45,8 @@
 - 🚀 My goal is to become a **Software Engineer**
 - 🌱 Improving my frontend and backend development skills every day
 - ⚡ I enjoy creating projects and customizing digital experiences
-
+  
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br>
 
 ## 🛠️ Technologies & Tools
