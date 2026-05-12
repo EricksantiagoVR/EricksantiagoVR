@@ -26,17 +26,11 @@
 
 <div align="center">
 
-<a href="https://instagram.com" title="@san_vr16">
-  <img src="https://shields.io" height="40"/>
-</a>
+<a href="https://instagram.com" title="@san_vr16"><img src="https://skillicons.dev" width="55"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://facebook.com" title="Santy Vasquez">
-  <img src="https://shields.io" height="40"/>
-</a>
+<a href="https://facebook.com" title="Santy Vasquez"><img src="https://githubusercontent.com" width="55"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:ericksantiago2806@gmail.com" title="ericksantiago2806@gmail.com">
-  <img src="https://shields.io" height="40"/>
-</a>
+<a href="mailto:ericksantiago2806@gmail.com" title="ericksantiago2806@gmail.com"><img src="https://skillicons.dev" width="55"/></a>
 
 </div>
 
