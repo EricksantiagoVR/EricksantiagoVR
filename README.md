@@ -20,20 +20,26 @@
 <br>
 
 <h2 align="center">
-<img src="https://media.giphy.com/media/LnKonfpQ7ExTG/giphy.gif" width="35">
+<img src="https://giphy.com" width="35">
   Connect With Me
 </h2>
 
 <div align="center">
 
-<a href="https://instagram.com/san_vr16" title="@san_vr16"><img src="https://skillicons.dev/icons?i=instagram" width="55"/></a>
+<a href="https://instagram.com" title="@san_vr16">
+  <img src="https://shields.io" height="40"/>
+</a>
 &nbsp;&nbsp;&nbsp;
-<!-- Logo de Facebook Actualizado -->
-<a href="https://facebook.com/" title="Santy Vasquez"><img src="https://skillicons.dev" width="55"/></a>
+<a href="https://facebook.com" title="Santy Vasquez">
+  <img src="https://shields.io" height="40"/>
+</a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:ericksantiago2806@gmail.com" title="ericksantiago2806@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="55"/></a>
+<a href="mailto:ericksantiago2806@gmail.com" title="ericksantiago2806@gmail.com">
+  <img src="https://shields.io" height="40"/>
+</a>
 
 </div>
+
 <br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
