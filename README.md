@@ -30,11 +30,7 @@
 - 🌱 Improving my frontend and backend development skills every day
 - ⚡ I enjoy creating projects and customizing digital experiences
   
-  <h2 align="center">
-<img src="https://media.giphy.com/media/LnKonfpQ7ExTG/giphy.gif" width="35">
-  Connect With Me
-</h2>
-
+## <picture></picture> My networks
 <div align="center">
 
 <a href="https://instagram.com/san_vr16" title="@san_vr16"><img src="https://skillicons.dev/icons?i=instagram" width="55"/></a>
